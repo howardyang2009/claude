@@ -1,2 +1,2 @@
-# Claude
-programs for Claude AI
+# meaning
+AI components that I created
